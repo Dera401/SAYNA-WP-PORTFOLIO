@@ -11,6 +11,7 @@ Le projet a été construit avec Elementor builder page et le addons Royal eleme
 - liberté de personnalisation de l’affichage des cartes des articles et son design  
 
 Voici le lien drive qui contient le projet : https://drive.google.com/drive/folders/19pwxwTL3kEUbW5eH7YMdanQ3X7PcfjVZ?usp=sharing
+
 les identifiants WordPress sont les suivants:
 - login : dera
 - pass: DeraAdmin
